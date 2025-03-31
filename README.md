@@ -1,6 +1,6 @@
 # Parrot Automotive Devices - Firmware Archive
 
-This repository is a collection of **firmware files** for various **Parrot automotive devices**.
+This repository is a collection of **official firmware files** for various **Parrot automotive devices** - mainly handsfree devices
 
 ## ⚠️ Important Notice
 
@@ -10,9 +10,11 @@ This archive is intended to:
 - Provide access to firmware needed for **device updates** and **maintenance**.
 - Help users who cannot find these files elsewhere.
 
-## 📦 Contents
+## 💬 Contribute
 
-- Official firmware files for multiple Parrot automotive devices
+If you own a Parrot automotive firmware version that is **not available in this repository**,  
+please open a discussion and share the information.  
+I will gladly add it to the collection to help others.
 
 ## ❗ Disclaimer
 
